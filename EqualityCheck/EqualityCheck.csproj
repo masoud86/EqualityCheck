@@ -11,6 +11,8 @@
   <ItemGroup>
     <None Update="equality-check.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
     </None>
   </ItemGroup>
 
