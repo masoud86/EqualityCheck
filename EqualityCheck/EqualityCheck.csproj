@@ -8,4 +8,10 @@
     <PackageIcon>equality-check.png</PackageIcon>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Update="equality-check.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
